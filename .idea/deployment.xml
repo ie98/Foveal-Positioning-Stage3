@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="MFCPosition" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="MFCPosition">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$/../" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/step_3/src/trainInRandomSample/trainInSubset2_gaussMask/modelParam/MESSIDOR/randomSample &amp; train in subset2 &amp; crossVal TVT &amp; VAT 0.5 &amp; epochs 400 &amp; lr 0.0001 &amp; lrf 0.01 &amp; segment &amp; patchSize R &amp; gauss maskSize 41 &amp; randomDeviation 0.25R &amp; batchsize 16/modelParam_128_7.212645706090109.pth" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="stu013@210.36.71.242:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="stu013@210.36.71.242:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
